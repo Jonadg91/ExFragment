@@ -12,4 +12,6 @@
     <string name="superman">Superman</string>
     <string name="descripcionsuperman">Super Heroe agil rapido...</string>
     <string name="title_activity_splash">SplashActivity</string>
+    <string name="guason">Guason</string>
+    <string name="descripcionguason">Descripcion</string>
 </resources>
