@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExFragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="batman">Batman</string>
+    <string name="descripcionbatman">Humano convertido es superheroe, agil, fuerte, hace uso de la tecnologia
+    para hacer su labor</string>
+    <string name="superman">Superman</string>
+    <string name="descripcionsuperman"></string>
+</resources>
