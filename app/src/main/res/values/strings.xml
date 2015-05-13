@@ -10,5 +10,6 @@
     <string name="descripcionbatman">Humano convertido es superheroe, agil, fuerte, hace uso de la tecnologia
     para hacer su labor</string>
     <string name="superman">Superman</string>
-    <string name="descripcionsuperman"></string>
+    <string name="descripcionsuperman">Super Heroe agil rapido...</string>
+    <string name="title_activity_splash">SplashActivity</string>
 </resources>
